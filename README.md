@@ -10,4 +10,4 @@ Atualmente tenho experiência em algumas Tecnologias, que são:
 * MySQL e DB2,
 * Cloud/VPS - (_Utilizando Linux Ubuntu_)
 
-![alt text](https://www.mmos.com.br/f/1997/01/Tibia-wallpaper.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cmh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
