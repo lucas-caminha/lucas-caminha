@@ -2,7 +2,7 @@
 
 <h1>Hi there 👋</h1>
 
-I work as a **FullStack Developer** at [Softplan](https://www.softplan.com.br/).
+I work as a **Java Developer Pleno** at [Softplan](https://www.softplan.com.br/).
 
 Learning Web Development with **Java Spring Framework**
 
