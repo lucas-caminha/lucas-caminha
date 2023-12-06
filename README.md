@@ -4,6 +4,7 @@
 
 I work as a **Java Developer Pleno**
 
-Learning Web Development with **Java Spring Framework**
+Full Stack developer, specialized in legacy Java and spring microservices.
+Venturing into a new frontend stack. {NEXT.JS}
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-caminha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
